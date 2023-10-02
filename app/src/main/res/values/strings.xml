@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Compose Article App</string>
+    <string name="title">Jet Pack Compose tutorial</string>
+    <string name="first_article">Tu jest cos dluzszego zeby sprawdzic jak sie zachowuje formatowanie tekstu</string>
+    <string name="second_article">Tu jest cos dluzszego zeby sprawdzic jak sie zachowuje formatowanie tekstu Tu jest cos dluzszego zeby sprawdzic jak sie zachowuje formatowanie tekstu Tu jest cos dluzszego zeby sprawdzic jak sie zachowuje formatowanie tekstu</string>
+</resources>
